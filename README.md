@@ -23,4 +23,6 @@ You'll need to install the following:
 ``` 
 pip install mistralai fastapi uvicorn python-multipart  
 ```
+Go to the mistral-ai.com site in order to create your api key and store it in your environmental variables on your computer.
+
 Enjoy!
