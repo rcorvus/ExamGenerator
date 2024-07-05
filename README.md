@@ -9,7 +9,7 @@ Press "Try it out":
 ![image](https://github.com/rcorvus/ExamGenerator/assets/5025458/2c8753bd-5bbc-4938-b776-368248880a9a)
 
 Choose your text file with the information you'd like to test on and press "Execute":  
-In the example uploaded, it's a selection of pages from the Washington state drivers manual that shows the new information changed in this version of the manual.  
+The example in this repo is a selection of pages from the Washington state drivers manual that shows the new information changed in this version of the manual.  
 
 ![image](https://github.com/rcorvus/ExamGenerator/assets/5025458/389ed2a3-9c35-424c-8c37-b0bafa333910)
 
