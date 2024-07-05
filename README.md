@@ -1,7 +1,7 @@
 # Exam Generator
 This REST API is designed to be consumed by a UI app in order to allow a user to upload a file which is read by an AI that generates an entire exam with multiple choice questions and answers.  
 
-You can run this directly and go to it's Swagger UI to see it in action (you can also call it from Postman):  
+You can run this directly in VSCode or from a terminal and go to it's Swagger UI to see it in action (you can also call it from Postman):  
 ```
 http://127.0.0.1:8000/docs
 ```
