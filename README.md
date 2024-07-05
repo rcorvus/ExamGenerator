@@ -14,9 +14,10 @@ In the example uploaded, it's a selection of pages from the Washington state dri
 ![image](https://github.com/rcorvus/ExamGenerator/assets/5025458/389ed2a3-9c35-424c-8c37-b0bafa333910)
 
 One nice feature of Mistral is that it can easily return responses already formatted in JSON so there's no need to use a json formatter or wrapper.  
-As you can see, it creates a list of questions each with the correct answer and additional "correctly" incorrect answers as alternatives, including multiple correct answers such as "A and B".  
+As you can see, based on the provided text and no other information, it creates a list of questions each with the correct answer and additional "correctly" incorrect answers as alternatives, including multiple correct answers such as "A and B".  
 This allows the UI to easily consume the data in order to create or modify the exam.
-![image](https://github.com/rcorvus/ExamGenerator/assets/5025458/42041190-d3d3-4231-a79d-5adad95614a3)
+![image](https://github.com/rcorvus/ExamGenerator/assets/5025458/40e2a968-c565-484a-9a6a-ac7357697fd2)
+
 
 Built with Python, FastAPI, and Mistral.
 You'll need to install the following:  
